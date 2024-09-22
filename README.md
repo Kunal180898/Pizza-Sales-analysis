@@ -51,6 +51,3 @@ Sales Trends Charts: Create line charts or bar graphs to visualize sales trends.
 Pie Charts: Show the proportion of each pizza type or size in total orders.
 
 Heatmaps: Visualize order frequency or sales across different times of day.
-
-8. Customer Segmentation
-If you have customer data, you could segment customers based on their order habits or preferences.
